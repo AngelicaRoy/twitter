@@ -1,4 +1,4 @@
-const user=require('./../../app/models/user')
+const user=require('/../../app/models/user')
 
 descrive("Unit Test for User class", () => {
     test('Create an User object', () => {
